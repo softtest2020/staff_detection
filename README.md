@@ -13,4 +13,4 @@
 
 # Design
 
-![alt text](Isolated.png "Flow of Detection")
+![alt text](design.jpg "Flow of Detection")
