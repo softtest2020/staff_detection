@@ -10,3 +10,7 @@
  + Remaining frames in output folder are predicted
  + Predicted result copied and separated into two folders, test_staff_result_frame (for frame with staff), test_non_staff_result_frame (for frame without staff)
  + For details of the implementation please check Staff Detection.ipynb
+
+# Design
+
+![alt text](Isolated.png "Flow of Detection")
